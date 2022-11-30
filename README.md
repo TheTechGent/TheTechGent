@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheTechGent otherwise known as Dale
 - 👀 I’m interested in ... software engineering and systems
 - 🌱 I’m currently learning ... python and am new to programming but want to learn C# .net and eventually c++
-- 💞️ I’m looking to collaborate on ... projects that welcome new coders and 
+- 💞️ I’m looking to collaborate on ... projects that welcome new coders and nurture their growth
 - 📫 How to reach me ... via linkedin: https://www.linkedin.com/in/dale-gent-25993024/
 
 <!---
