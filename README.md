@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheTechGent otherwise known as Dale
 - 👀 I’m interested in ... software engineering and game development
-- 🌱 I’m currently learning ... C# .net and SQL
+- 🌱 I’m currently learning ... C# .net and SQL, having previously learned python to intermediate level.
 - 💞️ I’m looking to collaborate on ... projects that welcome new coders and nurture their growth
 - 📫 How to reach me ... via linkedin: https://www.linkedin.com/in/dale-gent-25993024/
 
