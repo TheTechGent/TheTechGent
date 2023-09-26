@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dale, aka TheTechGent or Stygun in gamer circles. 
+- 👋 Hi, I’m Dale, aka TheTechGent or Stygun when gaming. 
 - 👀 I’m interested in ... game development and software engineering
-- 🌱 I’m currently learning ... Unreal, having previously learned C# and python.
-- 💞️ I’m looking to work in Game development and collaborate on... exciting projects that welcome new coders and nurture their growth
+- 🌱 I’m currently developing skills in ... Unreal (C++ and blueprints), having previously learned python and then C#.
+- 💞️ I now teach game development and will soon begin work building a game.
 - 📫 How to reach me ... via linkedin: https://www.linkedin.com/in/dale-gent-25993024/
 
 <!---
