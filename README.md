@@ -35,8 +35,9 @@
 ---
 
 ## 🧭 What I'm Working On  
-- Personal Portfolio website - React, Next, TypeScript.  
+- Personal Portfolio website - React, Next, TypeScript.
 - Collaborating on a Web App called Plaeen - an app to bring busy gamers together, planning thier gaming session. 
+- Converting my python Enigma Machine project into a Web App and adding features.
 - Writing Game Design Document for a game idea I have been developing.
 
 ---
