@@ -13,9 +13,9 @@
 ---
 
 ## 🧠 Skills Snapshot  
-- **Languages**: Python | C++ | TypeScript | JavaScript 
-- **Frameworks**: React | Next.js | Node.js | Express | FastAPI | Unreal Engine - Gameplay Framework
-- **Tools**: Git | Docker | PostgreSQL | Perforce
+**Languages**: Python | C++ | TypeScript | JavaScript 
+**Frameworks**: React | Next.js | Node.js | Express | FastAPI | Unreal Engine - Gameplay Framework
+**Tools**: Git | Docker | PostgreSQL | Perforce
 
 ---
 
