@@ -4,17 +4,19 @@
 ---
 
 ## 📌 Table of Contents  
-- [🧠 Skills Snapshot](#skills-snapshot)  
-- [📊 GitHub Stats](#github-stats)  
-- [📂 Featured Projects](#featured-projects)  
-- [🧭 What I'm Working On](#what-im-working-on)  
-- [📫 Let's Connect](#lets-connect)
+- [Skills Snapshot](#skills-snapshot)  
+- [GitHub Stats](#github-stats)  
+- [Featured Projects](#featured-projects)  
+- [What I'm Working On](#what-im-working-on)  
+- [Let's Connect](#lets-connect)
 
 ---
 
 ## 🧠 Skills Snapshot  
-**Languages**: Python | C++ | TypeScript | JavaScript 
+**Languages**: Python | C++ | TypeScript | JavaScript
+
 **Frameworks**: React | Next.js | Node.js | Express | FastAPI | Unreal Engine - Gameplay Framework
+
 **Tools**: Git | Docker | PostgreSQL | Perforce
 
 ---
@@ -28,14 +30,14 @@
 ## 📂 Featured Projects  
 | Project | Description |
 |--------|-------------|
-| [project-name](https://github.com/TheTechGent/EnigmaMachine) | A brief description |
-| [another-project](https://github.com/TheTechGent/C_nigma_PlusPlus) | A brief description |
+| [Enigma Machine](https://github.com/TheTechGent/EnigmaMachine) | Web recreation of the ww2 Enigma Machine |
+| [C_nigma_PlusPlus](https://github.com/TheTechGent/C_nigma_PlusPlus) | Desktop recreation of the ww2 Enigma Machine |
 
 ---
 
 ## 🧭 What I'm Working On  
-- Personal Portfolio website - React, Next, TS.  
-- Collaborating on Web App called Plaeen - ... 
+- Personal Portfolio website - React, Next, TypeScript.  
+- Collaborating on a Web App called Plaeen - an app to bring busy gamers together, planning thier gaming session. 
 - Writing Game Design Document for a game idea I have been developing.
 
 ---
@@ -43,4 +45,4 @@
 ## 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/dale-gent-25993024/)  
 - [Portfolio](https://TechGent.co.uk)  
-- 📧 Email: dalegent@hotmail.com
+- Email: dalegent@hotmail.com
