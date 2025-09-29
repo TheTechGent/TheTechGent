@@ -22,7 +22,6 @@
 ---
 
 ## 📊 GitHub Stats  
-![Dale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheTechGent&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTechGent&layout=compact&theme=radical)
 
 ---
@@ -30,8 +29,8 @@
 ## 📂 Featured Projects  
 | Project | Description |
 |--------|-------------|
-| [Enigma Machine](https://github.com/TheTechGent/EnigmaMachine) | Web recreation of the ww2 Enigma Machine |
-| [C_nigma_PlusPlus](https://github.com/TheTechGent/C_nigma_PlusPlus) | Desktop recreation of the ww2 Enigma Machine |
+| [Enigma Machine](https://github.com/TheTechGent/EnigmaMachine) | Web recreation of the ww2 Enigma 1 Machine - a work in progress |
+| [C_nigma_PlusPlus](https://github.com/TheTechGent/C_nigma_PlusPlus) | Desktop recreation of the ww2 Enigma 1 Machine |
 
 ---
 
