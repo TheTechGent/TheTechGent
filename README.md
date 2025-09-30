@@ -1,5 +1,5 @@
 # Hi, I'm Dale 👋 
-**Full-stack programmer, coming from an IT ops and media arts (UE5 Game Dev / Virtual Production / Film) background and seeking a junior software engineering role.**
+**Aspiring full-stack programmer! I come from an IT ops *(sys admin, service delivery, project management)* and media arts *(UE5 Game Dev / Virtual Production / Film)* background and I am now seeking a junior software engineering role.**
 
 ---
 
@@ -43,8 +43,8 @@
 ## 📂 Featured Projects  
 | Project | Description |
 |--------|-------------|
-| [Enigma Machine](https://github.com/TheTechGent/EnigmaMachine) | Web recreation of the ww2 Enigma 1 Machine - a work in progress |
-| [C_nigma_PlusPlus](https://github.com/TheTechGent/C_nigmaMachine_PlusPlus)) | Desktop recreation of the ww2 Enigma 1 Machine |
+| [Enigma Machine - python / js](https://github.com/TheTechGent/EnigmaMachine) | Web app recreation of the ww2 Enigma 1 Machine - a work in progress |
+| [Enigma Machine - C++](https://github.com/TheTechGent/C_nigmaMachine_PlusPlus) | console recreation of the ww2 Enigma 1 Machine |
 
 ---
 
