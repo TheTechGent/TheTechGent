@@ -36,7 +36,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTechGent&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thetechgent&layout=compact)
 
 ---
 
