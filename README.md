@@ -36,14 +36,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thetechgent&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thetechgent&layout=compact&theme=radical)
 
 ---
 
 ## 📂 Featured Projects  
 | Project | Description |
 |--------|-------------|
-| [Enigma Machine - Git Repo](https://github.com/TheTechGent/EnigmaMachine) [Enigma Machine - website](https://www.thetechgent.co.uk/)| Web app recreation of the ww2 Enigma 1 Machine - a work in progress |
+| Enigma Machine: [Git Repo](https://github.com/TheTechGent/EnigmaMachine), [website](https://www.thetechgent.co.uk/)| Web app recreation of the ww2 Enigma 1 Machine - a work in progress |
 | [Enigma Machine - C++ - Git Repo](https://github.com/TheTechGent/C_nigmaMachine_PlusPlus) | Console recreation of the ww2 Enigma 1 Machine |
 
 ---
