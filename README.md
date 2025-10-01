@@ -43,8 +43,8 @@
 ## 📂 Featured Projects  
 | Project | Description |
 |--------|-------------|
-| [Enigma Machine - python / js](https://github.com/TheTechGent/EnigmaMachine) | Web app recreation of the ww2 Enigma 1 Machine - a work in progress |
-| [Enigma Machine - C++](https://github.com/TheTechGent/C_nigmaMachine_PlusPlus) | Console recreation of the ww2 Enigma 1 Machine |
+| [Enigma Machine - Git Repo](https://github.com/TheTechGent/EnigmaMachine) [Enigma Machine - website](https://www.thetechgent.co.uk/)| Web app recreation of the ww2 Enigma 1 Machine - a work in progress |
+| [Enigma Machine - C++ - Git Repo](https://github.com/TheTechGent/C_nigmaMachine_PlusPlus) | Console recreation of the ww2 Enigma 1 Machine |
 
 ---
 
