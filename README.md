@@ -1,5 +1,5 @@
 # Hi, I'm Dale 👋 
-**Aspiring full-stack programmer! I come from an IT ops *(sys admin, service delivery, project management)* and media arts *(UE5 Game Dev / Virtual Production / Film)* background and I am now seeking a junior software engineering role.**
+**Unreal Game Developer, Software Engineer and Educator! My professional experience encompasses IT ops *(Desktop Support, sys admin, service delivery, project management)* and media arts *(UE5 Game Dev / Virtual Production / Film)*.**
 
 ---
 
