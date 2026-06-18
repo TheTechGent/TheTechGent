@@ -1,5 +1,5 @@
 # Hi, I'm Dale 👋 
-**Unreal Game Developer, Software Engineer and Educator! My professional experience encompasses IT ops *(Desktop Support, sys admin, service delivery, project management)* and media arts *(UE5 Game Dev / Virtual Production / Film)*.**
+**An Unreal Engine Game Developer! My professional experience encompasses IT ops *(Desktop Support, sys admin, service delivery, project management)* and various specialist roles across media arts *(UE5 Game Dev / Virtual Production / Film production and editing)* but Game Dev is where my true passion lies.**
 
 ---
 
@@ -14,20 +14,14 @@
 
 ## 🧠 Skills Snapshot  
 ### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-          
-### Frameworks  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+        
+### Game Engine  
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-### Tools  
+
+### Tools / DB  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,20 +36,18 @@
 ## 📂 Featured Projects  
 | Project | Description |
 |--------|-------------|
-| Enigma Machine: [Git Repo](https://github.com/TheTechGent/EnigmaMachine), [website](https://www.thetechgent.co.uk/)| Web app recreation of the ww2 Enigma 1 Machine - a work in progress |
+
 | [Enigma Machine - C++ - Git Repo](https://github.com/TheTechGent/C_nigmaMachine_PlusPlus) | Console recreation of the ww2 Enigma 1 Machine |
 
 ---
 
 ## 🧭 What I'm Working On  
-- Personal Portfolio website - React, Next, TypeScript.
-- Collaborating on a Web App called Plaeen - an app to bring busy gamers together, planning thier gaming session. 
-- Converting my python Enigma Machine project into a Web App using FastAPI and expanding its features.
-- Writing Game Design Document for a game idea I have been developing.
+- Proof of concept / prototype for a game I have just begun developing.
+- Completing a demo of the first level for a second game that I have been collaborating on. I have just finished the proof of concept. 
 
 ---
 
 ## 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/dale-gent-25993024/)  
-- [Portfolio](https://TechGent.co.uk)  
+- [Portfolio](https://TechGent.co.uk)
 - Email: dalegent@hotmail.com
